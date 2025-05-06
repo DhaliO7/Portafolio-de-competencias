@@ -1,4 +1,4 @@
-# 📌 Portafolio de Evidencias – Carlos Dhali Tejeda Tapia
+# 📌 Portafolio de Competencias – Carlos Dhali Tejeda Tapia
 
 ¡Hola! Soy **Carlos Dhali Tejeda Tapia**, estudiante del 6to semestre de **Ingeniería en Tecnologías Computacionales (ITC)** en el **Tecnológico de Monterrey**. Me apasionan la tecnología, los videojuegos (especialmente *League of Legends*) y mantenerme activo practicando deportes como voleibol y gimnasio.
 
